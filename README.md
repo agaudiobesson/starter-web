@@ -5,3 +5,5 @@ Encore des machins
 bla bla bla
 jpp
 one more time
+comparing working directory and staging area
+agaiiiiin
