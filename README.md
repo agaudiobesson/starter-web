@@ -7,3 +7,4 @@ jpp
 one more time
 comparing working directory and staging area
 agaiiiiin
+Texte pour le copyright
